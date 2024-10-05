@@ -88,7 +88,8 @@ export default function Weather(props) {
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
-          </a>{" "}
+          </a>
+          {"https://github.com/MariaNagornaya1980/weather-react"}
           and{" "}
           <a
             href="https://shecodes-weather.netlify.app/"
